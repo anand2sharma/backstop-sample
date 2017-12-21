@@ -17,3 +17,5 @@
 **backstop test**
 
 **backstop approve**
+
+Test simultaneously for many different environment such as Dev, QA and Staging on multiple form factor foctor and multiple platforms.
